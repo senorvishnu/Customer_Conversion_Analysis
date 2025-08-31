@@ -1,5 +1,3 @@
-# Customer_Conversion_Analysis
-
 # 🛒 Customer Conversion Analysis for Online Shopping
 
 An intelligent Streamlit web application that leverages clickstream data to enhance customer engagement and drive sales through machine learning-based predictions and customer segmentation.
