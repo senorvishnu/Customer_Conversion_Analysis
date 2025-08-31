@@ -2,6 +2,8 @@
 
 An intelligent Streamlit web application that leverages clickstream data to enhance customer engagement and drive sales through machine learning-based predictions and customer segmentation.
 
+Project summary - https://docs.google.com/document/d/190DBrMaCn2VPTQiarnCYM5Z3QtRHAzFalXJwqZzcaAA/edit?usp=sharing
+
 ## 📋 Project Overview
 
 This project implements a comprehensive customer conversion analysis system for e-commerce businesses, providing:
@@ -298,3 +300,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: This project is designed for educational and demonstration purposes. For production use, additional considerations for data security, model monitoring, and scalability should be implemented.
+
